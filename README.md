@@ -2,7 +2,7 @@
 Module 4 Challenge
 ____________________________________________________________________________
 
-WRITTEN REPORT:
+WRITTEN REPORT: (also moved this into PyCitySchools.ipynb as per instructions)
 
 This analysis begins with an overall summary for the district data and then breaks the data down by schools within the district.  This breakdown shows school type, number of students, budgets, and average test scores for each school.  Next, the highest-performing and lowest-performing schools are identified.  Then, math and reading scores are broken down by grade. Finally, scores are broken down by school spending, school size, and school type.
 
